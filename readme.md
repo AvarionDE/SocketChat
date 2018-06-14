@@ -8,19 +8,23 @@ The result will be a graphical chat interface and the possibility to create a se
 This project is written in Java 8 and developed in Eclipse IDE.
 
 ## TODO-list
-
-* 1 Graphical interface containing:
+	
+<dl> 
+	<dt>* 1 Graphical interface containing:</dt> 
+	<dd>
 	1.1 "create server"/ "join server" choice
 	1.2 chat interface with log, textfield, and send button
 	1.3 option to disconnect from current chat and return to point 1.1
+	</dd>
 	
-* 2 Handle errors & exceptions:
+	<dt>* 2 Handle errors & exceptions:</dt> 
+	<dd>
 	2.1 unknown host exception (e.g. wrong adress/port)
-	1.2 server/client lost connection exception
-
-* 3 Organizing code and Main class
+	2.1 server/client lost connection exception
+	</dd>
 	
-
+	<dt>* 3 Organizing code and Main class</dt> 
+</dl> 
 
 
 
