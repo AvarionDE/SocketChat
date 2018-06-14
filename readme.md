@@ -9,16 +9,16 @@ This project is written in Java 8 and developed in Eclipse IDE.
 
 ## TODO-list
 	
-* 1 Graphical interface containing:  
+**1 Graphical interface containing:**  
 	1.1 "create server"/ "join server" choice  
 	1.2 chat interface with log, textfield, and send button  
 	1.3 option to disconnect from current chat and return to point 1.1  
   	
-* 2 Handle errors & exceptions:  
+**2 Handle errors & exceptions:**  
 	2.1 unknown host exception (e.g. wrong adress/port)  
 	2.1 server/client lost connection exception  
   	
-* 3 Organizing code and Main class  
+**3 Organizing code and Main class**  
 
 ## Authors
 
